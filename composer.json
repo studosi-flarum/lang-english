@@ -1,9 +1,9 @@
 {
-    "name": "flarum/lang-english",
+    "name": "studosi/lang-croatian",
     "type": "flarum-extension",
-    "description": "English language pack.",
+    "description": "Croatian language pack",
     "keywords": ["locale"],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "require": {
         "flarum/core": "^0.1.0-beta.12"
     },
@@ -15,14 +15,14 @@
             "title": "English",
             "icon": {
                 "image": "icon.svg",
-                "backgroundColor": "#00247d",
+                "backgroundColor": "#1cbaa5",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
             }
         },
         "flarum-locale": {
-            "code": "en",
-            "title": "English"
+            "code": "hr",
+            "title": "Croatian"
         }
     }
 }
