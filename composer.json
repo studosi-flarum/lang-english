@@ -12,7 +12,7 @@
             "dev-master": "0.1.x-dev"
         },
         "flarum-extension": {
-            "title": "English",
+            "title": "Croatian",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#1cbaa5",
