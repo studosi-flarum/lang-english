@@ -17,7 +17,7 @@ flarum-tags:
       delete_tag_button: Obriši oznaku
       delete_tag_confirmation: "Jeste li sigurni da želite obrisati ovu oznaku? Rasprave označene njome NEĆE biti obrisane."
       description_label: Opis
-      hide_label: Ne prikazuj u Sve Rasprave
+      hide_label: Ne prikazuj u Sve rasprave
       icon_label: => core.ref.icon
       icon_text: => core.ref.icon_text
       name_label: => flarum-tags.ref.name
@@ -34,24 +34,24 @@ flarum-tags:
     # These translations are used in the Permissions page of the admin interface.
     permissions:
       allow_edit_tags_label: Dozvoli izmjenu oznaka
-      restrict_by_tag_heading: Ograniči po Oznaci
+      restrict_by_tag_heading: Ograniči po oznaci
       tag_discussions_label: Označi rasprave
 
     # These translations are used in the Tag Settings modal dialog.
     tag_settings:
       range_separator_text: " do "
-      required_primary_heading: Najmanji Broj Primarnih Oznaka
+      required_primary_heading: Najmanji broj primarnih oznaka
       required_primary_text: Unesi najmanji i najveći broj primarnih oznaka kojima se rasprave mogu označiti.
-      required_secondary_heading: Najmanji Broj Sekundarnih Oznaka
+      required_secondary_heading: Najmanji broj sekundarnih oznaka
       required_secondary_text: Unesi najmanji i najveći broj sekundarnih oznaka kojima se rasprave mogu označiti.
-      title: Postavke Oznaka
+      title: Postavke oznaka
 
     # These translations are used in the Tags page.
     tags:
       about_tags_text: "Oznake se koriste za kategorizaciju rasprava. Primarne oznake su kao tradicionalne kategorije foruma: može ih se poredati u hijerarhiju od 2 razine. Sekundarne oznake nemaju hijerarhiju ili poredak, a korisne su za mikro-kategorizaciju."
       create_tag_button: => flarum-tags.ref.create_tag
-      primary_heading: Primarne Oznake
-      secondary_heading: Sekundarne Oznake
+      primary_heading: Primarne oznake
+      secondary_heading: Sekundarne oznake
       settings_button: Postavke
 
   # Translations in this namespace are used by the forum user interface.
@@ -59,7 +59,7 @@ flarum-tags:
 
     # These translations are displayed on the page that lists all tags.
     all_tags:
-      meta_description_text: Sve Oznake
+      meta_description_text: Sve oznake
       meta_title_text: => flarum-tags.ref.tags
 
     # These translations are used by the Choose Tags modal dialog.
@@ -68,18 +68,18 @@ flarum-tags:
       choose_secondary_placeholder: "Odaberi još jednu oznaku|Broj oznaka koje još treba odabrati: {count}"
       edit_title: "Uredi oznake {title}"
       submit_button: => core.ref.okay
-      title: Odaberi Oznake za Svoju Raspravu
+      title: Odaberi oznake za svoju saspravu
 
     # These translations are used by the composer when starting a discussion.
     composer_discussion:
-      choose_tags_link: Odaberi Oznake
+      choose_tags_link: Odaberi oznake
 
     # These translations are used by the discussion control buttons.
     discussion_controls:
-      edit_tags_button: Uredi Oznake
+      edit_tags_button: Uredi oznake
 
     header:
-      back_to_tags_tooltip: Povratak na Popis Oznaka
+      back_to_tags_tooltip: Povratak na popis oznaka
 
     # These translations are used on the index page, peripheral to the discussion list.
     index:
@@ -110,6 +110,6 @@ flarum-tags:
 
   # Translations in this namespace are referenced by two or more unique keys.
   ref:
-    create_tag: Stvori Oznaku
+    create_tag: Stvori oznaku
     name: Naziv
     tags: Oznake

@@ -38,7 +38,7 @@ flarum-subscriptions:
       following_text: Primaj obavijesti kad netko pruži odgovor
       ignoring_button: => flarum-subscriptions.ref.ignoring
       ignoring_text: Ne primaj obavijesti o ovome. Sakrij s popisa rasprava.
-      not_following_button: Ne Pratim
+      not_following_button: Ne pratim
       not_following_text: "Primaj obavijesti samo na @spomen"
       notify_alert_tooltip: Primi forumsku obavijest samo kad se pojave nove objave
       notify_email_tooltip: Primi email kad se pojave nove objave

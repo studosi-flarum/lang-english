@@ -9,13 +9,13 @@ flarum-auth-facebook:
 
     # These translations are used in the Facebook Settings modal dialog.
     facebook_settings:
-      app_id_label: ID Aplikacije
-      app_secret_label: Tajna Aplikacije
-      title: Facebook Postavke
+      app_id_label: ID aplikacije
+      app_secret_label: Tajna aplikacije
+      title: Facebook postavke
 
   # Translations in this namespace are used by the forum user interface.
   forum:
 
     # These translations are used in the Log In modal dialog.
     log_in:
-      with_facebook_button: Prijavi Se s Facebookom
+      with_facebook_button: Prijavi se s Facebookom
