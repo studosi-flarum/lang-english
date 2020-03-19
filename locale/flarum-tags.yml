@@ -92,7 +92,7 @@ flarum-tags:
       added_and_removed_tags_text: "{username} označuje s {tagsAdded}, odznačuje od {tagsRemoved}."
       added_tags_text: "{username} označuje s {tagsAdded}."
       removed_tags_text: "{username} odznačuje od {tagsRemoved}."
-      tags_text: "oznaka {tags}|oznake {tags}"
+      tags_text: "{tags}|{tags}"
 
     # These translations are used when visiting a single tag's discussion list.
     tag:
