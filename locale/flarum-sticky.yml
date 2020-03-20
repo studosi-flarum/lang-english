@@ -16,11 +16,11 @@ flarum-sticky:
 
     # These translations are displayed as tooltips for discussion badges.
     badge:
-      sticky_tooltip: => Zalijepljeno
+      sticky_tooltip: Zalijepljeno
 
     # These translations are used by the discussion control buttons.
     discussion_controls:
-      sticky_button: => Zalijepi
+      sticky_button: Zalijepi
       unsticky_button: Odlijepi
 
     # These translations are displayed between posts in the post stream.
