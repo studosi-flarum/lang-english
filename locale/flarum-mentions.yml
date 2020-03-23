@@ -10,7 +10,7 @@ flarum-mentions:
     # These translations are used by the composer (reply autocompletion function).
     composer:
       mention_tooltip: Spomeni korisnika ili objavu
-      reply_to_post_text: "Odgovori na #{number}"
+      reply_to_post_text: "Odgovori na objavu #{number}"
 
     # These translations are used by the Notifications dropdown, a.k.a. "the bell".
     notifications:
@@ -29,8 +29,8 @@ flarum-mentions:
 
     # These translations are used in the Settings page.
     settings:
-      notify_post_mentioned_label: Netko odgovori na neku od mojih objava
-      notify_user_mentioned_label: Netko me spomene u objavi
+      notify_post_mentioned_label: Kad mi netko odgovori na neku od mojih objava
+      notify_user_mentioned_label: Kad me netko spomene u objavi
 
     # These translations are used in the user profile page and profile popup.
     user:
