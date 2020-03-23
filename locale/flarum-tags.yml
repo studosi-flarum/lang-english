@@ -41,9 +41,9 @@ flarum-tags:
     tag_settings:
       range_separator_text: " do "
       required_primary_heading: Najmanji broj primarnih oznaka
-      required_primary_text: Unesi najmanji i najveći broj primarnih oznaka kojima se rasprave mogu označiti.
+      required_primary_text: Unesite najmanji i najveći broj primarnih oznaka kojima se rasprave mogu označiti.
       required_secondary_heading: Najmanji broj sekundarnih oznaka
-      required_secondary_text: Unesi najmanji i najveći broj sekundarnih oznaka kojima se rasprave mogu označiti.
+      required_secondary_text: Unesite najmanji i najveći broj sekundarnih oznaka kojima se rasprave mogu označiti.
       title: Postavke oznaka
 
     # These translations are used in the Tags page.
@@ -64,8 +64,8 @@ flarum-tags:
 
     # These translations are used by the Choose Tags modal dialog.
     choose_tags:
-      choose_primary_placeholder: "Odaberi primarnu oznaku|Odaberi {count} primarnih oznaka"
-      choose_secondary_placeholder: "Odaberi još jednu oznaku|Broj oznaka koje još treba odabrati: {count}"
+      choose_primary_placeholder: "Odaberite primarnu oznaku|Odaberite još nekoliko ({count}) primarnih oznaka"
+      choose_secondary_placeholder: "Odaberite još jednu oznaku|Odaberite još nekoliko ({count}) oznaka"
       edit_title: "Uredi oznake {title}"
       submit_button: => core.ref.okay
       title: Odaberi oznake za svoju saspravu
