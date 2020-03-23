@@ -29,7 +29,7 @@ flarum-subscriptions:
     # These translations are used in the Settings page.
     settings:
       follow_after_reply_label: Automatski kreni pratiti rasprave u kojima pružim odgovor
-      notify_new_post_label: Netko objavi nešto u raspravi koju pratim
+      notify_new_post_label: Kad netko objavi nešto u raspravi koju pratim
 
     # These translations are used in the subscription menu displayed to the right of the post stream.
     sub_controls:
@@ -37,7 +37,7 @@ flarum-subscriptions:
       following_button: => flarum-subscriptions.ref.following
       following_text: Primaj obavijesti kad netko pruži odgovor
       ignoring_button: => flarum-subscriptions.ref.ignoring
-      ignoring_text: Ne primaj obavijesti o ovome. Sakrij s popisa rasprava.
+      ignoring_text: Ne primaj obavijesti o ovome, sakrij s popisa rasprava
       not_following_button: Ne pratim
       not_following_text: "Primaj obavijesti samo na @spomen"
       notify_alert_tooltip: Primi forumsku obavijest samo kad se pojave nove objave
