@@ -98,10 +98,10 @@ validation:
   attributes:
     username: korisničko ime
     password: lozinka
-    email: "adresa e-pošte"
+    email: "adresa emaila"
     title: naslov
     content: sadržaj
-    name_singular: ime u jednini
-    name_plural: ime u množini
+    name_singular: naziv u jednini
+    name_plural: naziv u množini
     tag_count_primary: broj primarnih oznaka
     tag_count_secondary: broj sekundarnih oznaka
