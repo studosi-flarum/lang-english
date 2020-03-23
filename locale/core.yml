@@ -148,16 +148,16 @@ core:
       allow_post_editing_label: Dozvoljavaj uređivanje objava
       allow_renaming_label: Dozvoljavaj preimenovanje
       create_heading: Stvaranje
-      delete_discussions_forever_label: Obriši rasprave zauvijek
-      delete_discussions_label: Obriši rasprave
-      delete_posts_forever_label: Obriši objave zauvijek
-      delete_posts_label: Obriši objave
+      delete_discussions_forever_label: Briši rasprave zauvijek
+      delete_discussions_label: Briši rasprave
+      delete_posts_forever_label: Briši objave zauvijek
+      delete_posts_label: Briši objave
       edit_posts_label: Uređuj objave
       edit_users_label: Uređuj korisnike
       global_heading: Globalno
       moderate_heading: Moderiranje
       new_group_button: Nova grupa
-      participate_heading: Prisustvo
+      participate_heading: Prisustvovanje
       post_without_throttle_label: Odgovoraj više puta bez čekanja
       read_heading: Čitanje
       rename_discussions_label: Preimenuj rasprave

@@ -9,7 +9,7 @@ flarum-flags:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      flag_posts_label: Prijavi objave
+      flag_posts_label: Prijavljuj objave
       view_flags_label: Vidi prijavljene objave
 
     # These translations are used in the Flags Settings modal dialog.

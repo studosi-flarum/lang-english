@@ -29,13 +29,13 @@ flarum-tags:
     # These translations are used in the navigation bar.
     nav:
       tags_button: => flarum-tags.ref.tags
-      tags_text: Upravljaj popisom dostupnih oznaka za usustavljivanje rasprava.
+      tags_text: Upravljajte popisom dostupnih oznaka za usustavljivanje rasprava.
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      allow_edit_tags_label: Dozvoli izmjenu oznaka
+      allow_edit_tags_label: Dozvoljavaj izmjenu oznaka
       restrict_by_tag_heading: Ograniči po oznaci
-      tag_discussions_label: Označi rasprave
+      tag_discussions_label: Označavaj rasprave
 
     # These translations are used in the Tag Settings modal dialog.
     tag_settings:
