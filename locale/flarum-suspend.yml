@@ -16,7 +16,7 @@ flarum-suspend:
     # These translations are used in the suspension notifications
     notifications:
       user_suspended_text: "{username} te isključuje s foruma na {timeReadable}"
-      user_unsuspended_text: "{username} te uključio u forum"
+      user_unsuspended_text: "{username} te ponovno uključuje u forum"
 
     # These translations are used in the Suspend User modal dialog (admin function).
     suspend_user:
@@ -30,7 +30,7 @@ flarum-suspend:
 
     # These translations are displayed as tooltips for user badges.
     user_badge:
-      suspended_tooltip: Isključen s foruma
+      suspended_tooltip: U tijeku isključenja s foruma
 
     # These translations are found on the user profile page (admin function).
     user_controls:

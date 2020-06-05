@@ -352,10 +352,10 @@ core:
     # These translations are displayed between posts in the post stream.
     post_stream:
       discussion_renamed_old_tooltip: 'Stari naslov: "{old}"'
-      discussion_renamed_text: "{username} mijenja naslov u {new}."
+      discussion_renamed_text: '{username} mijenja naslov u "{new}".'
       load_more_button: => core.ref.load_more
       reply_placeholder: => core.ref.write_a_reply
-      time_lapsed_text: "{period} kasnije"
+      time_lapsed_text: "{period} kasnije..."
 
     # These translations are used by the rename discussion modal.
     rename_discussion:
@@ -430,14 +430,14 @@ core:
 
     # These translations are displayed as error messages.
     error:
-      generic_message: "Upsić! Nešto je pošlo po zlu. Ponovno učitajte stranicu, molim."
+      generic_message: "Ups! Nešto je pošlo po zlu. Molimo ponovno učitajte stranicu."
       not_found_message: Traženi resurs nije pronađen.
       permission_denied_message: Nemate ovlasti za to.
       rate_limit_exceeded_message: Radite to malo prebrzo. Probajte ponovo za par sekundi.
 
     # These translations are used as suffixes when abbreviating numbers.
     number_suffix:
-      kilo_text: K
+      kilo_text: k
       mega_text: M
 
     # These translations are used to punctuate a series of items.
@@ -448,7 +448,7 @@ core:
 
     # These translations are used to modify usernames.
     username:
-      deleted_text: "[obrisano]"
+      deleted_text: "[uklonjen korisnik]"
 
   # Translations in this namespace are used in views other than Flarum's normal JS client.
   views:
@@ -569,7 +569,7 @@ core:
     mark_all_as_read: Označi sve kao pročitano
     next_page: Sljedeća stranica
     notifications: Obavijesti
-    okay: OK                                       # Referenced by flarum-tags.yml
+    okay: U redu                                   # Referenced by flarum-tags.yml
     password: Lozinka
     posts: Objave                                  # Referenced by flarum-statistics.yml
     previous_page: Prethodna stranica

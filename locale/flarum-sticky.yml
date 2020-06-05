@@ -9,24 +9,24 @@ flarum-sticky:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      sticky_discussions_label: Prilijepljuj rasprave
+      sticky_discussions_label: Prikvači rasprave
 
   # Translations in this namespace are used by the forum user interface.
   forum:
 
     # These translations are displayed as tooltips for discussion badges.
     badge:
-      sticky_tooltip: Zalijepljeno
+      sticky_tooltip: Prikvačeno
 
     # These translations are used by the discussion control buttons.
     discussion_controls:
-      sticky_button: Zalijepi
-      unsticky_button: Odlijepi
+      sticky_button: Prikvači
+      unsticky_button: Otkvači
 
     # These translations are displayed between posts in the post stream.
     post_stream:
-      discussion_stickied_text: "{username} zaljepljuje raspravu."
-      discussion_unstickied_text: "{username} odljepljuje raspravu."
+      discussion_stickied_text: "{username} prikvačuje raspravu."
+      discussion_unstickied_text: "{username} otkvačuje raspravu."
 
   ##
   # REUSED TRANSLATIONS - These keys should not be used directly in code!
@@ -34,4 +34,4 @@ flarum-sticky:
 
   # Translations in this namespace are referenced by two or more unique keys.
   ref:
-    sticky: Zalijepi
+    sticky: Prikvači

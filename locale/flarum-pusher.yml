@@ -10,9 +10,9 @@ flarum-pusher:
     # These translations are used in the Pusher Settings modal dialog.
     pusher_settings:
       app_cluster_label: Klaster
-      app_id_label: ID aplikacije
-      app_key_label: Ključ aplikacije
-      app_secret_label: Tajna aplikacije
+      app_id_label: Aplikacijski ID
+      app_key_label: Aplikacijski ključ
+      app_secret_label: Aplikacijska tajna
       title: Pusher postavke
 
   # Translations in this namespace are used by the admin interface.
@@ -20,4 +20,4 @@ flarum-pusher:
 
     # These translations are used in the discussion list.
     discussion_list:
-      show_updates_text: "Prikaži {count} ažuriranu raspravu|Prikaži ažurirane rasprave ({count})"
+      show_updates_text: "Prikaži ažurirane rasprave ({count})|Prikaži ažurirane rasprave ({count})"
